@@ -4,53 +4,19 @@
 |Status|Ongoing|
 
 
-Ms. Sapna Varshney
-Assistant Professor
-Ph.D., Jamia Milia Islamia
-
-Ms. Megha Khandelwal
-Assistant Professor
-M.Tech. (CSE), GGSIPU
-
-Ms. Nisha
-Assistant Professor
-MCA, University of Delhi
-
-Ms. Roni Chakre
-Assistant Professor
-M.Tech. (IS), DTU
-
-Ms. Reena Kasana
-Assistant Professor 
-M.Sc. (Informatics), University of Delhi 
-M.Tech. (CST), JNU 
-
-Ms. Priyanka 
-Assistant Professor
-M.Tech (CE), K.U.
-Ph.D, GJUS&T
-Chairperson IEEE Young Professionals, Delhi Section 
-
-Ms. Sonika Arora
-Assistant Professor SSCBS,
-Ph.D., University of Delhi
-
-Mr. Rajan Gupta
-Assistant Professor
-MCA, University of Delhi
-
-Mr. N.K. Chadha
-Guest Faculty
-PDF, University of Virginia, USA
-
-Mr. N.K. Oberoi
-Associate Professor
-M.com, M.Phil
-
-Mr. Gopal Singh Rawat 
-Assistant Professor 
-M.Sc.(Informatics), University of Delhi,
-M.Tech. (CST), JNU
+| Name | Designation | Qualification | Subjects Taught | 
+|-|-|-|-|
+| Ms. Sapna Varshney | Assistant Professor | Ph.D., Jamia Milia Islamia | Advance Operating System, System Programming | 
+| Ms. Megha Khandelwal | Assistant Professor | M.Tech. (CSE), GGSIPU | Numerical Computing | 
+| Ms. Nisha | Assistant Professor | MCA, University of Delhi | CSA, DBMS, SQA, UNP, Graphics |
+| Ms. Roni Chakre | Assistant Professor | M.Tech. (IS), DTU | CD, DIP, Software Engineering |
+| Ms. Reena Kasana | Assistant Professor  | M.Sc. (Informatics), University of Delhi <br /> M.Tech. (CST), JNU | Algorithm , Advance DBMS|
+| Ms. Priyanka | Assistant Professor | M.Tech (CE), K.U. <br / >Ph.D, GJUS&T <br />Chairperson IEEE Young Professionals, Delhi Section | DBA |
+| Ms. Sonika Arora | Assistant Professor SSCBS | Ph.D., University of Delhi | Discrete Mathematics |
+| Mr. Rajan Gupta | Assistant Professor | MCA, University of Delhi | IS, Stats |
+| Mr. N.K. Chadha | Guest Faculty | PDF, University of Virginia, USA | Organisational Behaviour | 
+| Mr. N.K. Oberoi | Associate Professor | M.com, M.Phil | Accounting |
+| Mr. Gopal Singh Rawat | Assistant Professor | M.Sc.(Informatics), University of Delhi, <br / >M.Tech. (CST), JNU | Data Structures |
 
 -------------------------------------------------
 Ms. Archana Singhal
