@@ -1,4 +1,10 @@
+| Question|Answer|
+|-|-|
+|Editor|Vipin Kumar|
+|Status|Ongoing|
+
 VISION
+
 To become a prominent Department of Computer Science and produce competent professionals with research, analytical and innovative skills, inculcating moral values and societal concerns.
 
 MISSION
