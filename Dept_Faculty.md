@@ -1,24 +1,39 @@
 | Question|Answer|
 |-|-|
-|Editor|Vipin Kumar|
+|Editor|Deepti Sharma|
 |Status|Ongoing|
 
 
 Ms. Vasudha Bhatnagar
+
 Professor
+
 Head of Department
+
 MCA University of Delhi
+
 Ph.D. Jamia Milia Islamia
+
 Homepage: http://people.du.ac.//nivbhatnagar
+
 Email: vbhatnagar@cs.du.ac.in
+
 Research Interests: Intelligent Data Analysis, Modelling of KDD Process and Data Mining Algorithms
+ 
+----
 
 Mr. Naveen Kumar
+
 Professor
+
 M.Sc, M.Tech, Ph.D. IIT Delhi
+
 http://people.du.ac.in/~nk/
+
 Email: nk@cs.du.ac.in
+
 Research Interests: Computational Intelligence, Data Mining & Information Security. 
+
 Homepage: 
 
 Mr. S.K. Muttoo
