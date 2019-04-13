@@ -29,8 +29,17 @@
 |23.|DUCS Alumni|0|0|
 |24.|Placement Team|0|0|
 
-## Miscellaneous Requirements 
+## Requirements 
 
+- Placement Advisor Message
+- Laboratory Faculities	
+- Library	
+- Past Recuiters 
+- DUCSS	
+- Alumni Working Club	
+- Recent Workshop and Seminars	
+- Student Initiatives	
+- DUCS Alumni
 
 
 
