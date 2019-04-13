@@ -1,3 +1,9 @@
+| Question|Answer|
+|-|-|
+|Editor|Deepti Sharma|
+|Status|Ongoing|
+
+
 Ms. Sapna Varshney
 Assistant Professor
 Ph.D., Jamia Milia Islamia
