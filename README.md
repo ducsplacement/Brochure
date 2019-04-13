@@ -46,7 +46,9 @@
 ## Designers Only
 
 - Proof Reading
-- NULL
+- How to organize contents
+  - Go through some brochures eg. IIMs, IITs etc.
+
 
 
 
