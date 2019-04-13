@@ -41,6 +41,12 @@
 - Student Initiatives	
 - DUCS Alumni
 
+---
+
+## Designers Only
+
+- Proof Reading
+- NULL
 
 
 
