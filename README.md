@@ -32,7 +32,7 @@
 ## Requirements 
 
 - Placement Advisor Message
-- Laboratory Faculities	
+- Laboratory Facilities	(In Process)
 - Library	
 - Past Recuiters 
 - DUCSS	
