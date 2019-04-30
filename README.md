@@ -37,9 +37,9 @@
 - Past Recuiters 
 - DUCSS	(Done: Anjali)
 - Alumni Working Club	(Content Done: Anjali, Modify: Deepti)
-- Recent Workshop and Seminars	
+- Recent Workshop and Seminars (Done: Anjali)
 - Student Initiatives	
-- DUCS Alumni (In Process: Swati)
+- DUCS Alumni (Done: Swati)
 - Language Proficiency form (circulated)
 
 ---
