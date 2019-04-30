@@ -36,10 +36,11 @@
 - Library	(In Process: Anjali)
 - Past Recuiters 
 - DUCSS	
-- Alumni Working Club	(In Process: Anjali, Modify: Deepti)
+- Alumni Working Club	(Content done: Anjali, Modify: Deepti)
 - Recent Workshop and Seminars	
 - Student Initiatives	
 - DUCS Alumni
+- Language Proficiency form (circulated)
 
 ---
 
