@@ -1,3 +1,8 @@
+| Question|Answer|
+|-|-|
+|Editor|Anjali Bansal|
+|Status|Done|
+
 ## Workshops and Seminars :
 
 - Android workshop
