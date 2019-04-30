@@ -1,5 +1,5 @@
 | Question|Answer|
 |-|-|
-|Editor|Anjali Bansal|
+|Editor|Anjali Bansal, Deepti Sharma|
 |Status|Ongoing|
 
