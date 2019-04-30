@@ -99,9 +99,14 @@ NICKY BAGARIA
 Flipkart 
 
 PARILA CHAUDHARY
-Manager
+Assistant Manager
 American Express  
 
 PRAMOD NEGI
 Facebook
 California, U.S.A
+
+BHUVNESH KUMAR
+Senior Software Development Engineer at Microsoft
+Redmond, Washington
+MCA 2004-2007
