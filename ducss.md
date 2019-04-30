@@ -3,9 +3,8 @@
 |Editor|Anjali Bansal|
 |Status|Ongoing|
 
-<br/>
+
 ## DELHI UNIVERSITY COMPUTER SCIENCE SOCIETY
-<br/>
 
 The Department creates an environment for students to take up challenging tasks; bring forth their latent capabilities; discover their full potential, and hence enhances this little yet significant Tech-Community that we have here.
 In order to achieve this goal, a number of activities are organized for students to help them build the traits of teamwork, trustworthiness, and synchronization.
