@@ -32,11 +32,11 @@
 ## Requirements 
 
 - Placement Advisor Message
-- Laboratory Facilities	(In Process)
-- Library	
+- Laboratory Facilities	(In Process: Anjali)
+- Library	(In Process: Anjali)
 - Past Recuiters 
 - DUCSS	
-- Alumni Working Club	
+- Alumni Working Club	(In Process: Anjali, Modify: Deepti)
 - Recent Workshop and Seminars	
 - Student Initiatives	
 - DUCS Alumni
