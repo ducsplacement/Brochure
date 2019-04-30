@@ -4,7 +4,7 @@
 |Status|Ongoing|
 
 <br/>
-##DELHI UNIVERSITY COMPUTER SCIENCE SOCIETY
+## DELHI UNIVERSITY COMPUTER SCIENCE SOCIETY
 <br/>
 
 The Department creates an environment for students to take up challenging tasks; bring forth their latent capabilities; discover their full potential, and hence enhances this little yet significant Tech-Community that we have here.
