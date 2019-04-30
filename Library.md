@@ -1,7 +1,7 @@
 | Question|Answer|
 |-|-|
 |Editor|Anjali Bansal|
-|Status|Ongoing|
+|Status|Done|
 
 ## LIBRARY
 
@@ -9,4 +9,4 @@ The students of the Department are affiliated to CSL library. Established in 198
 
 The website of CSL provides an electronic subscription for approximately 27,088e-journals of national and international repute including IEEE, ACM, Springer journals and proceedings.
 
-[http://crl.du.ac.in/] (http://crl.du.ac.in/)
+http://crl.du.ac.in/
