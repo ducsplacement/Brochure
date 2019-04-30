@@ -8,7 +8,7 @@
 |-|-|-|-|
 | Ms. Sapna Varshney | Assistant Professor | Ph.D., Jamia Milia Islamia | Advance Operating System, System Programming | 
 | Ms. Megha Khandelwal | Assistant Professor | M.Tech. (CSE), GGSIPU | Numerical Computing, Automata Theory | 
-| Ms. Nisha | Assistant Professor | MCA, University of Delhi | Computer System Architecture, DBMS, <br />Software Quality Assurance, Unix Network Programming,<br /> Computer  Graphics |
+| Ms. Nisha | Assistant Professor | MCA, University of Delhi | Computer System Architecture, DBMS, <br />Unix Network Programming,<br /> Computer  Graphics |
 | Ms. Roni Chakre | Assistant Professor | M.Tech. (IS), DTU | Compiler Design, DIP, Software Engineering |
 | Ms. Reena Kasana | Assistant Professor  | M.Sc. (Informatics), University of Delhi <br /> M.Tech. (CST), JNU | Design and Analysis of Algorithms, Advance DBMS|
 | Ms. Priyanka | Assistant Professor | M.Tech (CE), K.U. <br /> Ph.D, GJUS&T <br /> Chairperson IEEE Young Professionals, Delhi Section | Database Application |
