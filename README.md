@@ -32,14 +32,14 @@
 ## Requirements 
 
 - Placement Advisor Message
-- Laboratory Facilities	(In Process: Anjali)
-- Library	(In Process: Anjali)
+- Laboratory Facilities	(Done: Anjali)
+- Library	(Done: Anjali)
 - Past Recuiters 
-- DUCSS	
-- Alumni Working Club	(Content done: Anjali, Modify: Deepti)
+- DUCSS	(Done: Anjali)
+- Alumni Working Club	(Content Done: Anjali, Modify: Deepti)
 - Recent Workshop and Seminars	
 - Student Initiatives	
-- DUCS Alumni
+- DUCS Alumni (In Process: Swati)
 - Language Proficiency form (circulated)
 
 ---
