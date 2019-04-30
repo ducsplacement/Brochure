@@ -1,8 +1,8 @@
 Through sheer skill, commitment and hard work  the alumni of Department of Computer Science have distinguished themselves in the industry and academia alike. Inspired by their grit and achievements we wish to follow in their footprints. We feel proud of our talented and successful alumni who have made a mark in India and abroad. A few amongst them are:
 
-VASUDHA BHATNAGAR
-Professor
-Delhi University,India
+Prof. VASUDHA BHATNAGAR
+Head of Department, Department of Computer Science
+University of Delhi,India
 1985 MCA batch
 
 GULSHAN KUMAR
@@ -29,7 +29,6 @@ Dr. S.K. PAL
 Senior Scientist 
 Scientific Analysis Group
 DRDO
-Ph.D
 
 C.P.Murali
 VMD
@@ -46,7 +45,7 @@ Director
 Telcordia Technologies, USA
 1993 MCA. batch
 
-RAJIV MI'ITAL
+RAJIV MITTAL
 Vice President
 Corporate Strategy and Finance Mobisolv,  India
 1996 MCA batch
@@ -61,7 +60,7 @@ Director
 Simplogic Technologies, India
 1998 MCA. batch
 
-POONAM BEDI
+Prof. POONAM BEDI
 Officiating Director
 DUCC
 1999, Ph.D.
@@ -91,3 +90,18 @@ CTO
 Velmenni
 2015 MCA batch
 
+HARISH PRANAMI
+Software Development Engineer
+Apple
+2012 MCA batch
+
+NICKY BAGARIA
+Flipkart 
+
+PARILA CHAUDHARY
+Manager
+American Express  
+
+PRAMOD NEGI
+Facebook
+California, U.S.A
