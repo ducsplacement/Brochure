@@ -5,8 +5,8 @@
 |S.No.|Page Title|Edit Progress|Design Progress|
 |-|-|-|-|
 |1.|Vice-Chancellor Message|100|100|
-|2.|HOD Message|0|0|
-|3.|Placement Advisor Message|0|0|
+|2.|HOD Message|100|100|
+|3.|Placement Advisor Message|100|100|
 |4.|The Department|0|0|
 |5.|Faculty of Department|0|0|
 |6.|Ad-Hoc Guest Faculty|0|0|
