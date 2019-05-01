@@ -8,7 +8,7 @@ providing quality education since 1981. Since then, the department has produced
 several distinguished alumni in wide areas of software development, teaching, and
 research. The department offers two master programmes, a three-year (six-semesters)
 Master of Computer Applications (MCA) and a two-year (four-semesters) Master of
-Computer Science (M.Sc (C.S)
+Computer Science (M.Sc - C.S)
 
 MCA programme was started in 1982 to meet the growing demand for IT professionals in the
 industry. The programme equips the students with core computer science knowledge to
@@ -23,8 +23,9 @@ minor project in the third semester and a major project in the final semester. D
 year of project work, students develop a better aptitude for analytical reasoning, presentation,
 and skill of working in a team. Project areas include Approximation Algorithms, Parallel
 Computing, Data Mining, Semantic Web etc. It prepares the students to take up a career in the
-highly competitive IT industry as well as carry out research and development. Regular
-assignments along with minor and major research projects provide the students a triple
+highly competitive IT industry as well as carry out research and development. 
+
+Regular assignments along with minor and major research projects provide the students a triple
 advantage of gaining sound theoretical concepts, sophisticated program development, and
 research experience. The curricula are updated from time to time, to dynamically align with the
 changing needs of the industry, to ensure that students not just imbibe academic concepts but
