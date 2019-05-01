@@ -1,17 +1,19 @@
 DISCLAIMER : Only Designers. 
 
-|S.No.|aba|
+| Question|Answer|
 |-|-|
-|1.|Vice-Chancellor Message|
-|2.|HOD Message|
-
+|Editor|Vipin Kumar, Deepti Sharma|
+|Status|Ongoing|
 ## Pages
 
-|S.No.|Page Title|Edit Progress|Design Progress|
-|-|-|-|-|
-|1.|Vice-Chancellor Message|0|0|
-|2.|HOD Message|0|0|
-|3.|Placement Advisor Message|0|0|
+|S.No.|Page Title|Number of Pages|Design Progress|Special Note|
+|-|-|-|-|-|
+|1.|Index|2|0|2-pager, style : IIM| 
+|2.|Vice-Chancellor Message|1|0|mention university vision or some quote?|
+|3.|HOD Message|1|0|-|
+|4.|Placement Advisor Message|1|0| some placement demographic : demonstrating number of placements in past maybe 5 years|
+|5.|Quote|1|0|refer: IITD design dept|
+|-|-|-|-|-|
 |4.|The Department|0|0|
 |5.|Faculty of Department|0|0|
 |6.|Ad-Hoc Guest Faculty|0|0|
