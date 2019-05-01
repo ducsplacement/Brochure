@@ -35,6 +35,6 @@ students with their dream jobs, resulting in a win-win situation for the student
 for hiring organization. We look forward to foster and grow old relationships and welcome
 new recruiters for a long-lasting, mutually beneficial and friendly relationships.
 
-NEELIMA GUPTA
+DR. NEELIMA GUPTA
 
 PLACEMENT ADVISOR
