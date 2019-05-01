@@ -49,7 +49,8 @@
 - Proof Reading
 - How to organize contents
   - Go through some brochures eg. IIMs, IITs etc.
-
+  - refered : IIM , IITB, IITD, IITD T&P , BITs Pilani . 
+- New flow : newFlow.md 
 
 
 
