@@ -13,10 +13,9 @@ DISCLAIMER : Only Designers.
 |3.|HOD Message|1|0|-|
 |4.|Placement Advisor Message|1|0| some placement demographic : demonstrating number of placements in past maybe 5 years|
 |5.|Quote|1|0|refer: IITD design dept|
+|6.|The Department|2|0| change to include library, lab facilities, seminar room, committee room, presentation facilities, refer : IITD & T&P|
+|7.|Faculty of Department/Meritorius Mentors|2|0| make changes to include faces only just like IITD Design Dept , include adhoc, include the specializations|
 |-|-|-|-|-|
-|4.|The Department|0|0|
-|5.|Faculty of Department|0|0|
-|6.|Ad-Hoc Guest Faculty|0|0|
 |7.|MCA Programme|0|0|
 |8.|Course Structre MCA|0|0|
 |9.|M.SC. Programme|0|0|
@@ -27,8 +26,6 @@ DISCLAIMER : Only Designers.
 |14.|List of Achievements and Awards|0|0|
 |15.|Workshop and Seminars|0|0|
 |16.|Out of Classroom|0|0|
-|17.|Laboratory Faculities|0|0|
-|18.|Library|0|0|
 |19.|DUCSS|0|0|
 |20.|Alumni Working Club|0|0|
 |21.|Recent Workshop and Seminars|0|0|
