@@ -8,13 +8,13 @@ DISCLAIMER : Only Designers.
 
 |S.No.|Page Title|Number of Pages|Design Progress|Special Note|
 |-|-|-|-|-|
-|1.|Index|2|0|2-pager, style : IIM| 
-|2.|Vice-Chancellor Message|1|0|mention university vision or some quote?|
-|3.|HOD Message|1|0|-|
-|4.|Placement Advisor Message|1|0| some placement demographic : demonstrating number of placements in past maybe 5 years|
-|5.|Quote|1|0|refer: IITD design dept|
-|6.|The Department|2|0| change to include library, lab facilities, seminar room, committee room, presentation facilities, refer : IITD & T&P|
-|7.|Faculty of Department/Meritorius Mentors|2|0| make changes to include faces only just like IITD Design Dept , include adhoc, include the specializations|
+|1.|Index|2|100|2-pager, style : IIM| 
+|2.|Vice-Chancellor Message|1|100|mention university vision or some quote?|
+|3.|HOD Message|1|100|-|
+|4.|Placement Advisor Message|1|100| some placement demographic : demonstrating number of placements in past maybe 5 years|
+|5.|Quote|1|100|refer: IITD design dept|
+|6.|The Department|2|100| change to include library, lab facilities, seminar room, committee room, presentation facilities, refer : IITD & T&P|
+|7.|Faculty of Department/Meritorius Mentors|2|100| make changes to include faces only just like IITD Design Dept , include adhoc, include the specializations|
 |-|-|-|-|-|
 |8.|Academic Programme & Admission Procedure|1|0| show MSc MCa Demographics, and duration and etc details refer : IITB |
 |9.|Academic Curriculum|2|0| full structure of course MCA and MSc |
