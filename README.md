@@ -7,9 +7,9 @@
 |1.|Vice-Chancellor Message|100|100|
 |2.|HOD Message|100|100|
 |3.|Placement Advisor Message|100|100|
-|4.|The Department|0|0|
-|5.|Faculty of Department|0|0|
-|6.|Ad-Hoc Guest Faculty|0|0|
+|4.|The Department|100|100|
+|5.|Faculty of Department|100|100|
+|6.|Ad-Hoc Guest Faculty|100|100|
 |7.|MCA Programme|0|0|
 |8.|Course Structre MCA|0|0|
 |9.|M.SC. Programme|0|0|
