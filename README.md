@@ -10,10 +10,10 @@
 |4.|The Department|100|100|
 |5.|Faculty of Department|100|100|
 |6.|Ad-Hoc Guest Faculty|100|100|
-|7.|MCA Programme|0|0|
-|8.|Course Structre MCA|0|0|
-|9.|M.SC. Programme|0|0|
-|10.|Course Structre MSC|0|0|
+|7.|MCA Programme|100|100|
+|8.|Course Structre MCA|100|100|
+|9.|M.SC. Programme|100|100|
+|10.|Course Structre MSC|100|100|
 |11.|Past Recuiters|0|0|
 |12.|Certifications|0|0|
 |13.|Classroom Projects|0|0|
