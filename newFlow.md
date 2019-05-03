@@ -16,8 +16,8 @@ DISCLAIMER : Only Designers.
 |6.|The Department|2|100| change to include library, lab facilities, seminar room, committee room, presentation facilities, refer : IITD & T&P|
 |7.|Faculty of Department/Meritorius Mentors|2|100| make changes to include faces only just like IITD Design Dept , include adhoc, include the specializations|
 |-|-|-|-|-|
-|8.|Academic Programme & Admission Procedure|1|0| show MSc MCa Demographics, and duration and etc details refer : IITB |
-|9.|Academic Curriculum|2|0| full structure of course MCA and MSc |
+|8.|Academic Programme & Admission Procedure|1|100| show MSc MCa Demographics, and duration and etc details refer : IITB |
+|9.|Academic Curriculum|2|100| full structure of course MCA and MSc |
 |10.|Student Corner|4|0| Student Initiative(DUCSS : Give Structure (President etc)+ Activities(Skit, Sankalan)) + Projects(Classroom+) + Certificate + Achievements + Workshops + Seminars + (INCLUDE PHOTGRAPH HERE TECHNICALLY(BUT YOUR CHOICE))|
 |11.|Ilustorius Alumni|2|0| Alumni Working Club classes + Ducs Coding Club |  
 |12.|All About Recruitement|2|0| Recruitement Schedule + Procedure + Past Recruiters and Statistics |
