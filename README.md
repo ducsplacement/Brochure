@@ -14,24 +14,24 @@
 |8.|Course Structre MCA|100|100|
 |9.|M.SC. Programme|100|100|
 |10.|Course Structre MSC|100|100|
-|11.|Past Recuiters|0|0|
+|11.|Past Recuiters|100|0|
 |12.|Certifications|0|0|
-|13.|Classroom Projects|0|0|
+|13.|Classroom Projects|100|0|
 |14.|List of Achievements and Awards|0|0|
-|15.|Workshop and Seminars|0|0|
+|15.|Workshop and Seminars|100|0|
 |16.|Out of Classroom|0|0|
-|17.|Laboratory Faculities|0|0|
-|18.|Library|0|0|
-|19.|DUCSS|0|0|
-|20.|Alumni Working Club|0|0|
-|21.|Recent Workshop and Seminars|0|0|
+|17.|Laboratory Faculities|100|0|
+|18.|Library|100|0|
+|19.|DUCSS|100|0|
+|20.|Alumni Working Club|100|0|
+|21.|Recent Workshop and Seminars|100|0|
 |22.|Student Initiatives|0|0|
-|23.|DUCS Alumni|0|0|
+|23.|DUCS Alumni|100|0|
 |24.|Placement Team|0|0|
 
 ## Requirements 
 
-- Placement Advisor Message
+- Placement Advisor Message (Done)
 - Laboratory Facilities	(Done: Anjali)
 - Library	(Done: Anjali)
 - Past Recuiters 
