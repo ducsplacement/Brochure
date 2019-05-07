@@ -27,7 +27,7 @@
 |21.|Recent Workshop and Seminars|100|0|
 |22.|Student Initiatives|0|0|
 |23.|DUCS Alumni|100|0|
-|24.|Placement Team|20|0|
+|24.|Placement Team|100|0|
 
 ## Requirements 
 
@@ -41,7 +41,7 @@
 - Student Initiatives	
 - DUCS Alumni (Done: Swati)
 - Language Proficiency form (Done)
-- Placement Team (In Progress)
+- Placement Team (Done)
 
 ---
 
