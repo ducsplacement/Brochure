@@ -5,6 +5,13 @@
 
 ## Placement Team
 
+
+**Faculty Placement Advisor**
+
+Dr. Neelima Gupta
+Email Id : ngupta.cs.du@gmail.com
+Contact No. : 9818553554
+
 **M.C.A. Placement Coordinators**
 
 Anjali Bansal
@@ -32,3 +39,7 @@ Contact No. : 8743007970
 
 
 Swati
+
+
+
+For further correspondence contact: ducs.placement.2020@gmail.com
