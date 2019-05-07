@@ -39,7 +39,8 @@ Contact No. : 8743007970
 
 
 Swati
-
+Email Id : swati.mcs18.du@gmail.com
+Contact No. : 9717235471
 
 
 For further correspondence contact: ducs.placement.2020@gmail.com
