@@ -27,20 +27,21 @@
 |21.|Recent Workshop and Seminars|100|0|
 |22.|Student Initiatives|0|0|
 |23.|DUCS Alumni|100|0|
-|24.|Placement Team|0|0|
+|24.|Placement Team|20|0|
 
 ## Requirements 
 
 - Placement Advisor Message (Done)
 - Laboratory Facilities	(Done: Anjali)
 - Library	(Done: Anjali)
-- Past Recuiters 
+- Past Recuiters (Assigned to Rishav)
 - DUCSS	(Done: Anjali)
 - Alumni Working Club	(Content Done: Anjali, Modify: Deepti)
 - Recent Workshop and Seminars (Done: Anjali)
 - Student Initiatives	
 - DUCS Alumni (Done: Swati)
-- Language Proficiency form (circulated)
+- Language Proficiency form (Done)
+- Placement Team (In Progress)
 
 ---
 
