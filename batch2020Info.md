@@ -125,15 +125,16 @@
 ## Achievements and awards
 
 ### Tech
+- Participated in the Smart India Hackathon 2019 software edition
 - Participated in the #OpenGovData Hackathon conducted by NIC and IAMAI
 - 1st prize at COFAS International Computer Olympiad in 2014
 - Runnerup in Zoohackathon 2018(developed Alexa skill on illegal animal products awareness)
-- Participated in Open Data Government Hackathon
-- 1st Prize, Code Uncode (coding event)                           
-- Open govt data hackathon ( developed app on women security)
-- 2015: finger's on fire- 2nd Prize,
-- coding with c: 3rd Prize, 
+- 1st Prize, Code Uncode (coding event)
 - IT quiz : 1st Prize, college IT fest
+- April 2019: 1st position - Battle of Apps at SPM College
+- April 2019: 2nd position - Bug Fixing at SPM College
+- March 2019: 1st position - Web Crawling at SPM College
+- March 2019: 1st position - Appathon at IP College
 - Feb 2019: 2nd position - Web Development Competition at DUCS
 - Feb 2019: 2nd position - Web Designing Competition at PGDAV College
 - Feb 2019: 2nd position - Web Designing Competition at LBSIM College, IPU
@@ -141,6 +142,8 @@
 - March 2018: 1st position-  Bigdata & Hadoop Quiz
 - Feb 2018: 2nd position - Web Designing Competition at Mata Sundri College
 - Feb 2018: 2nd position - Web Designing Competition at Keshav Mahavidyalaya
+- 2015: finger's on fire- 2nd Prize,
+- coding with c: 3rd Prize
 
 ### Non- Tech  // some yet to be decided
 - In receipt of IAFBA Subroto Memorial Scholarship under “UG and PG Scheme”, IAF Benevolent Association, since 2014.
@@ -166,7 +169,7 @@
 - Android workshop
 - Robotics workshop
 - Cloud Computing Web Development workshop
-- Workshop on  Alexa Dev Day,Microsoft Azure Dev Day
+- Workshop on  Alexa Dev Day, Microsoft Azure Dev Day
 - Regression and deep learning 2018, South Asian University
 - Machine Learning Workshop, DDUC, Delhi University.
 - IOT workshop (2018) , DUCS
@@ -201,7 +204,7 @@
 ## Out of classroom projects
 
 - Gamemode development
-- Amazon Campus Mentorship Project-Access Points Experience Dashboard.
+- Amazon Campus Mentorship Project - Access Points Experience Dashboard.
 - "Shooting Stars" android game developed via LibGDX Framework using Java.
 - Alexa Skills - Java Concepts , Life Lessons, Techtonic Trivia
 - Google Actions Build - Algorithm Concepts
