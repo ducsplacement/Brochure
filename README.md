@@ -27,7 +27,7 @@
 |21.|Recent Workshop and Seminars|100|100|
 |22.|Student Initiatives|0|0|
 |23.|DUCS Alumni|100|0|
-|24.|Placement Team|100|0|
+|24.|Placement Team|100|100|
 
 ## Requirements 
 
