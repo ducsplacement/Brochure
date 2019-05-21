@@ -22,3 +22,6 @@ DISCLAIMER : Only Designers.
 |11.|Ilustorius Alumni|2|0| Alumni Working Club classes + Ducs Coding Club |  
 |12.|All About Recruitement|2|0| Recruitement Schedule + Procedure + Past Recruiters and Statistics |
 |13.|Placement Team and Contact|0|0|
+
+## Notes
+- Student Initiatives Left
