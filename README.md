@@ -38,7 +38,7 @@
 - DUCSS	(Done: Anjali)
 - Alumni Working Club	(Content Done: Anjali, Modify: Deepti)
 - Recent Workshop and Seminars (Done: Anjali)
-- Student Initiatives 	
+- Student Initiatives (DUCS Coding Cup)	
 - DUCS Alumni (Done: Swati)
 - Language Proficiency form (Done)
 - Placement Team (Done)
