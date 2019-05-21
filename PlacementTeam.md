@@ -15,32 +15,35 @@ Contact No. : 9818553554
 **M.C.A. Placement Coordinators**
 
 Anjali Bansal
-Email Id : anjali.mca17.du@gmail.com
-Contact No. : 8506991215
+anjali.mca17.du@gmail.com
++91-8506991215
 
 Avinash 
-
+avinash.mca17.du@gmail.com
++91-9555138871
 
 Vikas
-
+vikas.mca17.du@gmail.com
++918287322181
 
 
 
 **M.Sc. Placement Coordinators**
 
-Ayush
-
+Ayush Kumar Singh
+ayush.mcs18.du@gmail.com
++919910691679
 
 
 Rishav Kohli
-Email Id : rishav.mcs18.du@gmail.com
-Contact No. : 8743007970
+rishav.mcs18.du@gmail.com
+8743007970
 
 
 
 Swati Gautam
-Email Id : swati.mcs18.du@gmail.com
-Contact No. : 9717235471
+swati.mcs18.du@gmail.com
+9717235471
 
 
 For further correspondence contact: ducs.placement.2020@gmail.com
