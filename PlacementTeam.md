@@ -24,7 +24,7 @@ avinash.mca17.du@gmail.com
 
 Vikas
 vikas.mca17.du@gmail.com
-+918287322181
++91-8287322181
 
 
 
@@ -32,18 +32,18 @@ vikas.mca17.du@gmail.com
 
 Ayush Kumar Singh
 ayush.mcs18.du@gmail.com
-+919910691679
++91-9910691679
 
 
 Rishav Kohli
 rishav.mcs18.du@gmail.com
-8743007970
++91-8743007970
 
 
 
 Swati Gautam
 swati.mcs18.du@gmail.com
-9717235471
++91-9717235471
 
 
 For further correspondence contact: ducs.placement.2020@gmail.com
