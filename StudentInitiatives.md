@@ -21,3 +21,15 @@ Skit : A welcoming fun event to carve out the actor within each one of us. A gro
 Fresher’s Party : After the skit, a formal event for welcoming the students is organised; Parichay-The Fresher’s Party. A theme is adorned by freshers for the party, performances are lined up by them, and food and beverage are served throughout the day to keep the energy going.
 
 Farewell Party: The students bid adieu to all the final year seniors with great ostentation at this party. Performances, goodbye speeches, presentations made by juniors showcasing their journey at DUCS, farewell titles & souvenirs all form the perfect ingredients for a nostalgic yet memorable recipe of lives at DUCS.
+
+
+Festivals :
+
+DUCS are family to each other. Following festivals are celebrated with great zeal and vigour :
+
+Teacher’s Day : It is important that not only students but our teachers receive a warm environment of appreciation and honour. Hence, students organise a small celebration for thanking the teachers for all the guidance they have provided us with. 
+
+Diwali : Every year, seniors and juniors dressed in ethnics gather together to celebrate Diwali. Students make Rangoli, and perform Laxmi Pooja which is followed by DJ session. Lamps and Candles are lighten throughout the department.
+
+Holi : The festival of colours is celebrated with vigour & smiles. Department is painted with colours and students and teachers gather to celebrate this festival together.
+
