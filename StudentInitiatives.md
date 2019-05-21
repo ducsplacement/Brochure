@@ -16,12 +16,9 @@ Amidst a plethora of projects & assignments we do ensure to have a break for cel
 
 Orientation : The Department teachers and students organize an orientation on the first day of the academic year, to enlighten the new students about the rules and regulations of the department. The orientation ensures that the best of knowledge is provided to all students to carry out their life at the department with ease.
 
-Skit : A welcoming fun event to carve out the actor within each one of us. A group of freshers, totally unknown to each other, is formed and a senior serves as a mentor to them. This event fills the air with humour, excitement and fun. All seniors and alumni are cordially invited for the event to welcome juniors in the DUCS family.
+Skit and Freshers: The skit is a welcoming fun event to carve out the actor within each one of us. This event fills the air with humor, excitement, and fun. After the skit, Parichay-The Fresher’s Party, is organized. A theme is adorned by freshers for the party and performances are lined up by them. All seniors and alumni are cordially invited to the event to welcome juniors in the DUCS family.
 
-Fresher’s Party : After the skit, a formal event for welcoming the students is organised; Parichay-The Fresher’s Party. A theme is adorned by freshers for the party, performances are lined up by them, and food and beverage are served throughout the day to keep the energy going.
-
-Farewell Party: The students bid adieu to all the final year seniors with great ostentation at this party. Performances, goodbye speeches, presentations made by juniors showcasing their journey at DUCS, farewell titles & souvenirs all form the perfect ingredients for a nostalgic yet memorable recipe of lives at DUCS.
-
+Farewell Party: The students bid adieu to all the final-year seniors with great ostentation at this party. Performances, goodbye speeches, titles & souvenirs and the farewell video made by juniors showcasing their journey at DUCS all form the perfect ingredients for a nostalgic yet memorable recipe of lives at DUCS.
 
 Festivals :
 
