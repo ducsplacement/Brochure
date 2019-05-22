@@ -4,7 +4,7 @@
 
 |S.No.|Page Title|Edit Progress|Design Progress|
 |-|-|-|-|
-|0.|Index|0|0|
+|0.|Index|100|100|
 |1.|Vice-Chancellor Message|100|100|
 |2.|HOD Message|100|100|
 |3.|Placement Advisor Message|100|100|
@@ -30,19 +30,8 @@
 |23.|DUCS Alumni|100|100|
 |24.|Placement Team|100|100|
 
-## Requirements 
+## Edits if Any (text only)
 
-- Placement Advisor Message (Done)
-- Laboratory Facilities	(Done: Anjali)
-- Library	(Done: Anjali)
-- Past Recuiters (Assigned to Rishav)
-- DUCSS	(Done: Anjali)
-- Alumni Working Club	(Content Done: Anjali, Modify: Deepti)
-- Recent Workshop and Seminars (Done: Anjali)
-- Student Initiatives (DUCS Coding Cup)	
-- DUCS Alumni (Done: Swati)
-- Language Proficiency form (Done)
-- Placement Team (Done)
 
 ---
 
