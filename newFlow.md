@@ -20,7 +20,7 @@ DISCLAIMER : Only Designers.
 |9.|Academic Curriculum|2|100| full structure of course MCA and MSc |
 |10.|Student Corner|4|80| Student Initiative(DUCSS : Give Structure (President etc)+ Activities(Skit, Sankalan)) + Projects(Classroom+) + Certificate + Achievements + Workshops + Seminars + (INCLUDE PHOTGRAPH HERE TECHNICALLY(BUT YOUR CHOICE))|
 |11.|Ilustorius Alumni|2|0| Alumni Working Club classes + Ducs Coding Club |  
-|12.|All About Recruitement|2|70| Recruitement Schedule + Procedure + Past Recruiters and Statistics |
+|12.|All About Recruitement|2|100| Recruitement Schedule + Procedure + Past Recruiters and Statistics |
 |13.|Placement Team and Contact|100|100|
 
 ## Notes
