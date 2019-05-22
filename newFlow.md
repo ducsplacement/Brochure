@@ -1,3 +1,5 @@
+|Front|1|i|NA|
+|Front|1|i|NA|
 DISCLAIMER : Only Designers. 
 
 | Question|Answer|
@@ -24,5 +26,27 @@ DISCLAIMER : Only Designers.
 |13.|Placement Team and Contact|100|100|
 
 ## Flow
-1. Front        R1
-2. Index        L2      R3
+|Page|#Pages|Alloted Page No.|
+|Front|1|i|
+|Index|2|ii-iii|
+|VC Message|1|1|
+|HOD Message|1|2|
+|Advisor Message|1|3|
+|The Deaprtment|1|5|
+|Faculty|2|6-7|
+|Academic Programme|6|8-13|
+|Admission Procedure|1|14|
+|Student Corner|8|15-22|
+|More About Department|6|23-28|
+|Illustrious Alumni|3|29-31|
+|All About Recruitment|3|32-34|
+|Placement Team|1|35|
+|Back|1|last|
+
+
+
+
+
+
+
+
