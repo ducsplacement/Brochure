@@ -23,10 +23,10 @@
 |17.|Laboratory Faculities|100|100|
 |18.|Library|100|100|
 |19.|DUCSS|100|100|
-|20.|Alumni Working Club|100|0|
+|20.|Alumni Working Club|100|100|
 |21.|Recent Workshop and Seminars|100|100|
 |22.|Student Initiatives|100|100|
-|23.|DUCS Alumni|100|0|
+|23.|DUCS Alumni|100|100|
 |24.|Placement Team|100|100|
 
 ## Requirements 
