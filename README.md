@@ -14,7 +14,7 @@
 |8.|Course Structre MCA|100|100|
 |9.|M.SC. Programme|100|100|
 |10.|Course Structre MSC|100|100|
-|11.|Past Recuiters|100|70|
+|11.|Past Recuiters|100|100|
 |12.|Certifications|100|100|
 |13.|Classroom Projects|100|100|
 |14.|List of Achievements and Awards|100|100|
