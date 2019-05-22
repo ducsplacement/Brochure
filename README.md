@@ -4,6 +4,7 @@
 
 |S.No.|Page Title|Edit Progress|Design Progress|
 |-|-|-|-|
+|0.|Index|0|0|
 |1.|Vice-Chancellor Message|100|100|
 |2.|HOD Message|100|100|
 |3.|Placement Advisor Message|100|100|
