@@ -23,4 +23,6 @@ DISCLAIMER : Only Designers.
 |12.|All About Recruitement|2|100| Recruitement Schedule + Procedure + Past Recruiters and Statistics |
 |13.|Placement Team and Contact|100|100|
 
-## Notes
+## Flow
+1. Front        R1
+2. Index        L2      R3
