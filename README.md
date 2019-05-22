@@ -21,7 +21,7 @@
 |15.|Workshop and Seminars|100|100|
 |16.|Out of Classroom|100|100|
 |17.|Laboratory Faculities|100|100|
-|18.|Library|100|0|
+|18.|Library|100|100|
 |19.|DUCSS|100|0|
 |20.|Alumni Working Club|100|0|
 |21.|Recent Workshop and Seminars|100|100|
