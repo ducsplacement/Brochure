@@ -3,7 +3,7 @@ DISCLAIMER : Only Designers.
 | Question|Answer|
 |-|-|
 |Editor|Vipin Kumar, Deepti Sharma|
-|Status|Ongoing|
+|Status|Completed|
 ## Pages
 
 |S.No.|Page Title|Number of Pages|Design Progress|Special Note|
@@ -19,7 +19,7 @@ DISCLAIMER : Only Designers.
 |8.|Academic Programme & Admission Procedure|1|100| show MSc MCa Demographics, and duration and etc details refer : IITB |
 |9.|Academic Curriculum|2|100| full structure of course MCA and MSc |
 |10.|Student Corner|4|100| Student Initiative(DUCSS : Give Structure (President etc)+ Activities(Skit, Sankalan)) + Projects(Classroom+) + Certificate + Achievements + Workshops + Seminars + (INCLUDE PHOTGRAPH HERE TECHNICALLY(BUT YOUR CHOICE))|
-|11.|Ilustorius Alumni|2|0| Alumni Working Club classes + Ducs Coding Club |  
+|11.|Ilustorius Alumni|2|100| Alumni Working Club classes + Ducs Coding Club |  
 |12.|All About Recruitement|2|100| Recruitement Schedule + Procedure + Past Recruiters and Statistics |
 |13.|Placement Team and Contact|100|100|
 
