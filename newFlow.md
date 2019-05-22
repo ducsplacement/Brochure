@@ -1,5 +1,4 @@
-|Front|1|i|NA|
-|Front|1|i|NA|
+
 DISCLAIMER : Only Designers. 
 
 | Question|Answer|
@@ -27,6 +26,7 @@ DISCLAIMER : Only Designers.
 
 ## Flow
 |Page|#Pages|Alloted Page No.|
+|-|-|-|
 |Front|1|i|
 |Index|2|ii-iii|
 |VC Message|1|1|
