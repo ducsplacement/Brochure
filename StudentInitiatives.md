@@ -40,3 +40,15 @@ This year , Sankalan has become more special. A new quiz portal has been develop
 Intra-Sankalan : 
 
 The DUCS Society also conducts INTRA-SANKALAN, where the students of the Department compete among themselves in many technical and non-technical events.
+
+DUCS Coding Club :
+
+DUCS is an active body which runs on the principle of building and developing perceptive brains. Everyone helps each other to learn the new trends and technologies. 
+
+Together this year, the club was able to make some of the best achievements, which include:
+
+More than 30 students got a HacktoberFest 18 shirt for creating pull request and contributing to tech society by Digital Ocean.
+About 50 students were able to learn the Amazon Alexa technology and created their own skills which are now live on Alexa Skill Store.
+Two students received Facebook-Udacity PyTorch Scholarship Challenge.
+
+Students under this umbrella have learned a lot through exploration and experience. Together, students attend sessions at various places. Not only outside, but students conduct sessions amongst themselves and in their colleges to grow everyone around them.
