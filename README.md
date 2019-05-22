@@ -30,8 +30,9 @@
 |23.|DUCS Alumni|100|100|
 |24.|Placement Team|100|100|
 
-## Edits if Any (text only)
-
+## Conclusion
+Design ready.
+-Vipin Kumar
 
 ---
 
