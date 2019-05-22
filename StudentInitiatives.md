@@ -30,3 +30,13 @@ Diwali : Every year, seniors and juniors dressed in ethnics gather together to c
 
 Holi : The festival of colours is celebrated with vigour & smiles. Department is painted with colours and students and teachers gather to celebrate this festival together.
 
+Sankalan :- Our tech fest !
+
+Since its inception in 2005, every year DUCS organises its annual fest with much enthusiasm and energy. Students from various universities come and participate in this two day event. Renowned people from the IT industry and our alumni placed in various tech giant companies judge and review all the technical events held during the fest. 
+After the two days long grilling experience, students are awarded and appreciated for winning and participating in the fest. 
+
+This year , Sankalan has become more special. A new quiz portal has been developed from scratch for Sankalan using Laravel and Vue.js which handled everything from registration to evaluation.
+
+Intra-Sankalan : 
+
+The DUCS Society also conducts INTRA-SANKALAN, where the students of the Department compete among themselves in many technical and non-technical events.
